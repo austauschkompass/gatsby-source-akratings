@@ -1,206 +1,219 @@
 [
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "TravelWorks",
-    "AnzahlBewertungen": 40
+    "grade": "3",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 2,
+    "organisation_name": "Berlitz Sprachreisen",
+    "organisation_slug": "berlitz"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Elsta Sprachreisen",
-    "AnzahlBewertungen": 1
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 5,
+    "organisation_name": "Carl Duisberg Centren",
+    "organisation_slug": "cdc"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Flamenco-Sprachreisen",
-    "AnzahlBewertungen": 15
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 17,
+    "organisation_name": "DIALOG-Sprachreisen",
+    "organisation_slug": "dialog"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "iSt Sprachreisen",
-    "AnzahlBewertungen": 47
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 11,
+    "organisation_name": "Do it! Sprachreisen",
+    "organisation_slug": "do-it"
   },
   {
-    "Note": "4",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Sprachcaffe",
-    "AnzahlBewertungen": 9
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 25,
+    "organisation_name": "Dr. Steinfels Sprachreisen GmbH",
+    "organisation_slug": "dr-steinfels"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "LAL Sprachreisen GmbH",
-    "AnzahlBewertungen": 15
+    "grade": "4",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 3,
+    "organisation_name": "easy Sprachreisen",
+    "organisation_slug": "easy"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "DIALOG-Sprachreisen",
-    "AnzahlBewertungen": 17
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 299,
+    "organisation_name": "EF Sprachreisen",
+    "organisation_slug": "ef"
   },
   {
-    "Note": "4",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "LISA! Sprachreisen",
-    "AnzahlBewertungen": 12
+    "grade": "1",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 1,
+    "organisation_name": "Elsta Sprachreisen",
+    "organisation_slug": "elsta"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "EF Sprachreisen",
-    "AnzahlBewertungen": 299
+    "grade": "1",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 33,
+    "organisation_name": "Englisch nach Mass",
+    "organisation_slug": "engl-nach-mass"
   },
   {
-    "Note": "3",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Offaehrte Sprachreisen",
-    "AnzahlBewertungen": 9
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 31,
+    "organisation_name": "ESL - Sprachreisen",
+    "organisation_slug": "esl"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Kolumbus Sprachreisen",
-    "AnzahlBewertungen": 62
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 15,
+    "organisation_name": "Eurocentres - Sprachreisen weltweit",
+    "organisation_slug": "eurocentres"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Do it! Sprachreisen",
-    "AnzahlBewertungen": 11
+    "grade": "3",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 37,
+    "organisation_name": "europartner reisen",
+    "organisation_slug": "europartner"
   },
   {
-    "Note": "3",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "europartner reisen",
-    "AnzahlBewertungen": 37
+    "grade": "1",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 7,
+    "organisation_name": "FHC Sprachreisen",
+    "organisation_slug": "fhc"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "RUF Jugendreisen",
-    "AnzahlBewertungen": 1
+    "grade": "5",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 4,
+    "organisation_name": "GLS Sprachenzentrum",
+    "organisation_slug": "gls"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Dr. Steinfels Sprachreisen GmbH",
-    "AnzahlBewertungen": 25
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 47,
+    "organisation_name": "iSt Sprachreisen",
+    "organisation_slug": "ist"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Matthes Sprachreisen",
-    "AnzahlBewertungen": 55
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 9,
+    "organisation_name": "Kaplan International",
+    "organisation_slug": "kaplan"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "FHC Sprachreisen",
-    "AnzahlBewertungen": 7
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 62,
+    "organisation_name": "Kolumbus Sprachreisen",
+    "organisation_slug": "kolumbus"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "ESL - Sprachreisen",
-    "AnzahlBewertungen": 31
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 15,
+    "organisation_name": "LAL Sprachreisen GmbH",
+    "organisation_slug": "lal"
   },
   {
-    "Note": "3",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Zebra-Tours",
-    "AnzahlBewertungen": 5
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 8,
+    "organisation_name": "Linguland Sprachreisen",
+    "organisation_slug": "linguland"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Sprachdirekt GmbH",
-    "AnzahlBewertungen": 2
+    "grade": "4",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 12,
+    "organisation_name": "LISA! Sprachreisen",
+    "organisation_slug": "lisa"
   },
   {
-    "Note": "3",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Berlitz Sprachreisen",
-    "AnzahlBewertungen": 2
+    "grade": "1",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 55,
+    "organisation_name": "Matthes Sprachreisen",
+    "organisation_slug": "matthes"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Panke Sprachreisen",
-    "AnzahlBewertungen": 29
+    "grade": "3",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 9,
+    "organisation_name": "Offaehrte Sprachreisen",
+    "organisation_slug": "offaerthe"
   },
   {
-    "Note": "5",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "GLS Sprachenzentrum",
-    "AnzahlBewertungen": 4
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 29,
+    "organisation_name": "Panke Sprachreisen",
+    "organisation_slug": "panke"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Englisch nach Mass",
-    "AnzahlBewertungen": 33
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 1,
+    "organisation_name": "RUF Jugendreisen",
+    "organisation_slug": "ruf"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Carl Duisberg Centren",
-    "AnzahlBewertungen": 5
+    "grade": "4",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 9,
+    "organisation_name": "Sprachcaffe",
+    "organisation_slug": "sprachcaffe"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Sprachurlaub.de",
-    "AnzahlBewertungen": 2
+    "grade": "1",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 2,
+    "organisation_name": "Sprachdirekt GmbH",
+    "organisation_slug": "sprachdirekt"
   },
   {
-    "Note": "6",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "team! Sprachen und Reisen",
-    "AnzahlBewertungen": 2
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 2,
+    "organisation_name": "Sprachurlaub.de",
+    "organisation_slug": "scherer"
   },
   {
-    "Note": "4",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "easy Sprachreisen",
-    "AnzahlBewertungen": 3
+    "grade": "1",
+    "updated_at": "18.11.2015-15:15:56",
+    "rating_count": 1,
+    "organisation_name": "STS Sprachreisen GmbH",
+    "organisation_slug": "sts"
   },
   {
-    "Note": "1",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "BOA LINGUA",
-    "AnzahlBewertungen": 2
+    "grade": "6",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 2,
+    "organisation_name": "team! Sprachen und Reisen",
+    "organisation_slug": "team"
   },
   {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Xplore Sprachreisen",
-    "AnzahlBewertungen": 12
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 40,
+    "organisation_name": "TravelWorks",
+    "organisation_slug": "travelworks"
   },
   {
-    "Note": "1",
-    "Datum": "18.11.2015-15:15:56",
-    "Organisation": "STS Sprachreisen GmbH",
-    "AnzahlBewertungen": 1
-  },
-  {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Eurocentres - Sprachreisen weltweit",
-    "AnzahlBewertungen": 15
-  },
-  {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Kaplan International",
-    "AnzahlBewertungen": 9
-  },
-  {
-    "Note": "2",
-    "Datum": "26.11.2020-17:08:02",
-    "Organisation": "Linguland Sprachreisen",
-    "AnzahlBewertungen": 8
+    "grade": "2",
+    "updated_at": "26.11.2020-17:08:02",
+    "rating_count": 12,
+    "organisation_name": "Xplore Sprachreisen",
+    "organisation_slug": "xplore"
   }
 ]
