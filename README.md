@@ -1,23 +1,35 @@
 # Rating API
 
-__TODO__ this is currently a stub and just serves static, pregenerated json files.
+__TODO__ this is currently a stub and just exposes static, pregenerated json files as gatsby GraphQL nodes.
 
-The rating API serves aggregated summaries of Ratings across different sites and for specific _things_
-Things that can be rated are:
+A source plugin for gatsby providing the following Node types:
 
-- Cities
-- Organisations
+- RatingSummaryOrganisation (can be join/filtered by `organisation_slug`)
+- RatingSummaryCity (city's countries can be joined/filtered by `country_code` field)
 
-## Install
+which contain aggregated summaries of Ratings across different sites (mostly from [SRB](https://www.sprachreisen-bewertung.de)) for either Organisations or Cities.
 
-Host `rating_summaries` directory within docroot of webserver-vhost.
+##  Include the plugin in a Gatsby site
 
-## Endpoints
+Add this plugin as a dependency in your site's package.json via:
 
-`GET /rating_summaries/organisations.json`
+```shell
+yarn add git+ssh://git@github.com:austauschkompass/gatsby-source-akratings
+```
 
-`GET /rating_summaries/cities.json`
+Then, inside of the `gatsby-config.js` file of your site, include the plugin in the `plugins` array:
 
+```javascript
+module.exports = {
+  plugins: [
+    // other gatsby plugins
+    // ...
+    {
+        resolve: `gatsby-source-akratings`
+    }
+  ],
+}
+```
 
 ## Pregeneration of JSON data
 
