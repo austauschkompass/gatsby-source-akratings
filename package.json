@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-source-akratings",
+  "version": "1.0.0",
+  "description": "Gatsby Source Plugin for Ratings (currently a stub)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austauschkompass/gatsby-source-akratings.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "author": "Lennart Melzer <lennart.melzer@schueleraustausch.net>",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/austauschkompass/gatsby-source-akratings/issues"
+  },
+  "homepage": "https://github.com/austauschkompass/gatsby-source-akratings#readme",
+  "dependencies": {}
+}
