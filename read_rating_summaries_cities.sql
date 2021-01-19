@@ -1,6 +1,9 @@
+SET character_set_results = latin1;
+
 SELECT JSON_ARRAYAGG(
   JSON_OBJECT(
     "country_name", Land,
+    "country_code", AkCountryCodes.country_code,
     "city_name", Ort,
     "rating_beach", Strand,
     "rating_party", Party,
@@ -9,4 +12,6 @@ SELECT JSON_ARRAYAGG(
     "grade", NotevonSRB
   )
 )
-FROM Orte;
+FROM Orte
+JOIN AkCountryCodes
+ON AkCountryCodes.Orte_id=id;

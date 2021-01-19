@@ -37,10 +37,13 @@ You can now connect to the remote MySQL server on port 3307
 Run the prepared queries to generate JSON of rating summaries for cities and organisations:
 
 ```
-mysql --defaults-extra-file=./my.cnf --batch --skip-column-names sprachreisenvergleich < ./read_rating_summaries_cities > ./rating_summaries/cities.json
+mysql --defaults-extra-file=./my.cnf --batch --skip-column-names sprachreisenvergleich < ./read_rating_summaries_cities.sql > ./rating_summaries/cities.json
 
-mysql --defaults-extra-file=./my.cnf --batch --skip-column-names sprachreisenvergleich < ./read_rating_summaries_organisations > ./rating_summaries/organisations.json
+mysql --defaults-extra-file=./my.cnf --batch --skip-column-names sprachreisenvergleich < ./read_rating_summaries_organisations.sql > ./rating_summaries/organisations.json
 ```
+
+__NOTE__: Citie names are encoded as latin1 in the remote database and read accordingly, however, some Location names are still wrong, so this is a best effort service and might need
+special manual treatment...
 
 __NOTE__: "updated\_at" column does not seem to be up to date. "grade" is a
 school grade in german, so 6 is worst, 1 is best, which is currently
@@ -63,3 +66,15 @@ CREATE TABLE `AkOrganisations` (
 ```
 
 And then manually filled.
+
+a join table for countries in "Orte" mapped to ISO country codes (alpha2) was created
+in the original remote database with the following statements:
+
+```mysql
+CREATE TABLE `AkCountryCodes` (
+  `Orte_id` int(5) NOT NULL,
+  `country_code` varchar(2) NOT NULL
+);
+```
+
+And semi-manually filled.

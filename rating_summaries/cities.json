@@ -1,4655 +1,5092 @@
 [
   {
-    "Ort": "Adelaide",
-    "Land": "Australien",
-    "Note": "2",
-    "Party": 5,
-    "Kultur": 5,
-    "Strand": 4,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Airlie Beach",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Aix-en-Provence",
-    "Land": "Frankreich",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Alicante",
-    "Land": "Spanien",
-    "Note": "1.6",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Almunecar",
-    "Land": "Spanien",
-    "Note": "2.5",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Amboise",
-    "Land": "Frankreich",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Antibes",
-    "Land": "Frankreich",
-    "Note": "2.9",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Antigua",
-    "Land": "Guatemala ",
-    "Note": "1",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Boca Raton",
-    "Land": "USA",
-    "Note": "6",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Arequipa",
-    "Land": "Peru",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ashland",
-    "Land": "USA",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Atlanta",
-    "Land": "USA",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Auckland",
-    "Land": "Neuseeland",
-    "Note": "1",
-    "Party": 5,
-    "Kultur": 4,
-    "Strand": 5,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Avignon",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Barbados",
-    "Land": "Barbados",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Barcelona",
-    "Land": "Spanien",
-    "Note": "1.7",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Bariloche",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bariloche",
-    "Land": "Argentinien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Beijing",
-    "Land": "China",
-    "Note": "4.5",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Biarritz",
-    "Land": "Frankreich",
-    "Note": "3",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Bordeaux",
-    "Land": "Frankreich",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Boston",
-    "Land": "USA",
-    "Note": "1.3",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Bournemouth",
-    "Land": "England",
-    "Note": "2",
-    "Party": 4,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Newcastle",
-    "Land": "England",
-    "Note": "",
-    "Party": 5,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Brest",
-    "Land": "Frankreich",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Brighton",
-    "Land": "England",
-    "Note": "2.2",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Brisbane",
-    "Land": "Australien",
-    "Note": "1.3",
-    "Party": 5,
-    "Kultur": 4,
-    "Strand": 5,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Buenos Aires",
-    "Land": "Argentinien",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Cadiz",
-    "Land": "Spanien",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Cairns",
-    "Land": "Australien",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Calgary",
-    "Land": "Kanada",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Camber Sands",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cambridge",
-    "Land": "England",
-    "Note": "2.5",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Cancun",
-    "Land": "Mexiko",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 0,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cannes",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Canterbury",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Capo Vaticano",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chambéry",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Charlotte",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chicago",
-    "Land": "USA",
-    "Note": "2.4",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 4,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Christchurch",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Christchurch",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chukyo",
-    "Land": "Japan",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cleverland",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cordoba",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Cordoba",
-    "Land": "Argentinien ",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Cork",
-    "Land": "Irland",
-    "Note": "2",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Coronado",
-    "Land": "CostaRica",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Taunton",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cote dAzur",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cuenca",
-    "Land": "Ecuador",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cuernavaca",
-    "Land": "Mexiko ",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Cusco",
-    "Land": "Peru",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dahab",
-    "Land": "Ägypten",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Denia",
-    "Land": "Spanien",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Denver",
-    "Land": "USA",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Devon",
-    "Land": "England",
-    "Note": "1.5",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dublin",
-    "Land": "Irland",
-    "Note": "2.4",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Durban",
-    "Land": "Suedafrika",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Eastbourne",
-    "Land": "England",
-    "Note": "1.7",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Edinburgh",
-    "Land": "England",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 3
-  },
-  {
-    "Ort": "El Puerto",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "El Puerto de Santa Maria",
-    "Land": "Spanien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Elba",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Exmouth",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Faro",
-    "Land": "Portugal",
-    "Note": "2",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Fiesole",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Florenz",
-    "Land": "Italien",
-    "Note": "3",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Flores",
-    "Land": "Guatemala",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Florida",
-    "Land": "USA",
-    "Note": "1.3",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Fort Lauderdale",
-    "Land": "USA",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 5,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Fremantle",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Fukuoka",
-    "Land": "Japan",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Galway",
-    "Land": "Irland",
-    "Note": "1.5",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Ghajnsielem",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Gold Coast",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Gozo",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Gran Canaria",
-    "Land": "Spanien",
-    "Note": "3",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Granada",
-    "Land": "Spanien",
-    "Note": "1",
-    "Party": 1,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Great Yarmouth",
-    "Land": "England",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Guadeloupe",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Guanajuato",
-    "Land": "Mexiko",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Hastings",
-    "Land": "England",
-    "Note": "2",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Havanna",
-    "Land": "Kuba",
-    "Note": "3",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Tavistock",
-    "Land": "England",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Hawaii",
-    "Land": "USA",
-    "Note": "2",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Hobart",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Hong Kong",
-    "Land": "China",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Honolulu",
-    "Land": "USA",
-    "Note": "2.7",
-    "Party": 4,
-    "Kultur": 2,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Houston",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Indianapolis",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Isle of Wight",
-    "Land": "England",
-    "Note": "1.8",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Jaco Beach",
-    "Land": "CostaRica ",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Jeffreys Bay",
-    "Land": "Suedafrika",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 5,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Jersey",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kairo",
-    "Land": "Ägypten",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kalabrien",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kaliningrad",
-    "Land": "Russland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kanazawa",
-    "Land": "Japan",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Kapstadt",
-    "Land": "Suedafrika",
-    "Note": "1.4",
-    "Party": 5,
-    "Kultur": 5,
-    "Strand": 4,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Keele",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Krakau",
-    "Land": "Polen",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "La Rochelle",
-    "Land": "Frankreich",
-    "Note": "1.3",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Limerick",
-    "Land": "Irland",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Lissabon",
-    "Land": "Portugal",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "London",
-    "Land": "England",
-    "Note": "2.3",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "London-Central",
-    "Land": "England",
-    "Note": "1.3",
-    "Party": 5,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "London-Central-Hampstead",
-    "Land": "England",
-    "Note": "1.5",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Hohensolms",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "London-Covent Garden",
-    "Land": "England",
-    "Note": "2",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "London-Greenwich",
-    "Land": "England",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "London-Hampstead",
-    "Land": "England",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Los Angeles",
-    "Land": "USA",
-    "Note": "1.8",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Lucca",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Lyon",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Madrid",
-    "Land": "Spanien",
-    "Note": "1.5",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Mailand",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Malaga",
-    "Land": "Spanien",
-    "Note": "2.1",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Mallorca",
-    "Land": "Spanien",
-    "Note": "2",
-    "Party": 4,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Manuel Antonio",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Marbella",
-    "Land": "Spanien",
-    "Note": "2.3",
-    "Party": 5,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Margate",
-    "Land": "England",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Melbourne",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Mendoza",
-    "Land": "Argentinien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Mendoza",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Merida",
-    "Land": "Mexiko",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mexico City",
-    "Land": "Mexiko",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Miami",
-    "Land": "USA",
-    "Note": "1",
-    "Party": 5,
-    "Kultur": 5,
-    "Strand": 5,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Miami Beach",
-    "Land": "USA",
-    "Note": "1.4",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Montpellier",
-    "Land": "Frankreich",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Montreal",
-    "Land": "Kanada",
-    "Note": "2",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Montreux",
-    "Land": "Schweiz",
-    "Note": "5",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Moskau",
-    "Land": "Russland",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Msida",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Nagano",
-    "Land": "Japan",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Nashville",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Neapel",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Nerja",
-    "Land": "Spanien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Neuengland",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "New York",
-    "Land": "USA",
-    "Note": "1.7",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Nizza",
-    "Land": "Frankreich",
-    "Note": "1.7",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Noosa",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Oaxaca",
-    "Land": "Mexiko ",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Oklahoma",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Orbetello",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Orvieto",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Oxford",
-    "Land": "England",
-    "Note": "1.7",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Palma de Mallorca",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 5,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Paris",
-    "Land": "Frankreich",
-    "Note": "2",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Peking",
-    "Land": "China",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Perth",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Phuket",
-    "Land": "Thailand",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Pisa",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Playa del Carmen",
-    "Land": "Mexiko ",
-    "Note": "2.8",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Plymouth",
-    "Land": "England",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Portico di Romagna",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Porto",
-    "Land": "Portugal",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Puerto Vallarta",
-    "Land": "Mexiko ",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Puerto de la Cruz",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Quito",
-    "Land": "Ecuador",
-    "Note": "1",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Rabat",
-    "Land": "Marokko",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Ravenna",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Rom",
-    "Land": "Italien",
-    "Note": "2.7",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Royan",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Salamanca",
-    "Land": "Spanien",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Salerno",
-    "Land": "Italien",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Salvador da Bahia",
-    "Land": "Brasilien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 3
-  },
-  {
-    "Ort": "San Bartolomeo",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "San Diego",
-    "Land": "USA",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 3
-  },
-  {
-    "Ort": "San Francisco",
-    "Land": "USA",
-    "Note": "1.4",
-    "Party": 4,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 3
-  },
-  {
-    "Ort": "San Jose",
-    "Land": "CostaRica ",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "San Juan",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "San Juan",
-    "Land": "Puerto Rico ",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "San Remo",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "San Sebastian",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "St. Raphael",
-    "Land": "Frankreich",
-    "Note": "4",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Santa Barbara",
-    "Land": "USA",
-    "Note": "1.7",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 5,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Santa Monica",
-    "Land": "USA",
-    "Note": "2",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Santiago de Chile",
-    "Land": "Chile ",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Santiago de Compostela",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Santo Domingo",
-    "Land": "Dominikanische Republik",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Seattle",
-    "Land": "USA",
-    "Note": "3",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Severn Valley",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sevilla",
-    "Land": "Spanien",
-    "Note": "1.3",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Shanghai",
-    "Land": "China",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 2,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Siena",
-    "Land": "Italien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Singapur",
-    "Land": "Singapur",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Sizilien",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Sliema",
-    "Land": "Malta",
-    "Note": "2.5",
-    "Party": 4,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Conil",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Mellieha",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Montevideo",
-    "Land": "Uruguay",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Lakefield",
-    "Land": "Kanada",
-    "Note": "1.5",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Squamish",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mont Tremblant",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Catharines",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Heyeres",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Teignmouth",
-    "Land": "England",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Christchurch",
-    "Land": "England",
-    "Note": "1.7",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Saint-Malo",
-    "Land": "Frankreich",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Bexhill-on-sea",
-    "Land": "England",
-    "Note": "3.3",
-    "Party": 1,
-    "Kultur": 4,
-    "Strand": 4,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Bagheria",
-    "Land": "Italien",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Solerno",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sorrento",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sosua",
-    "Land": "Dominikanische Republik",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "South Sea",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St Antonys",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Georges Bay",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Julians",
-    "Land": "Malta",
-    "Note": "1.8",
-    "Party": 4,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Malo",
-    "Land": "Frankreich",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Pauls Bay",
-    "Land": "Malta",
-    "Note": "1.5",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "St. Anne",
-    "Land": "Guadeloupe",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Strassburg",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Swanage",
-    "Land": "England",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Swieqi",
-    "Land": "Malta",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sydney",
-    "Land": "Australien",
-    "Note": "1.8",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Sydney-Manly",
-    "Land": "Australien",
-    "Note": "1",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Taipei",
-    "Land": "Taiwan",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Taormina",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Taupo",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Teneriffa",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tobago",
-    "Land": "Karibik",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tokyo",
-    "Land": "Japan",
-    "Note": "1.2",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 3,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Torbay",
-    "Land": "England",
-    "Note": "2",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Toronto",
-    "Land": "Kanada",
-    "Note": "1.8",
-    "Party": 3,
-    "Kultur": 5,
-    "Strand": 1,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Torquay",
-    "Land": "England",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Tropea",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Valencia",
-    "Land": "Spanien",
-    "Note": "1.6",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 5,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Vancouver",
-    "Land": "Kanada",
-    "Note": "1.6",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Vejer de la Frontera",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Venedig",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Verona",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Viareggio",
-    "Land": "Italien",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Vichy",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Victoria",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Warminster",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Weymouth",
-    "Land": "England",
-    "Note": "3.6",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Whistler",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Worthing",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "York",
-    "Land": "England",
-    "Note": "5",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Rouen",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Bristol",
-    "Land": "England",
-    "Note": "1.3",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Chester",
-    "Land": "England",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Manchester",
-    "Land": "England",
-    "Note": "1.1",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Santiago de Cuba",
-    "Land": "Kuba",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "St. Petersburg",
-    "Land": "Russland",
-    "Note": "1",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 1,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Windlesham",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Byron Bay",
-    "Land": "Australien",
-    "Note": "1",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Kent",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Berkeley",
-    "Land": "USA",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Tampa Bay",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Playa Tamarindo",
-    "Land": "CostaRica",
-    "Note": "1.5",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kalifornien",
-    "Land": "USA",
-    "Note": "2.5",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Playa Jac&oacute;",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Xian",
-    "Land": "China",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Leysin",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Washington",
-    "Land": "USA",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Montgomery",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bath",
-    "Land": "England",
-    "Note": "2",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Winchester",
-    "Land": "England",
-    "Note": "1.4",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Birmingham",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Spa",
-    "Land": "Belgien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Valparaiso",
-    "Land": "Chile",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Pucón",
-    "Land": "Chile",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Asunción",
-    "Land": "Paraguay",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Lima",
-    "Land": "Peru",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Exeter",
-    "Land": "England",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Young Island",
-    "Land": "Kroatien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Haywards-Heath",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "La Crau",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Verneuil",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bugibba",
-    "Land": "Malta",
-    "Note": "2.2",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Sardinien",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Portsmouth",
-    "Land": "England",
-    "Note": "6",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Valletta",
-    "Land": "Malta",
-    "Note": "2.2",
-    "Party": 2,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Marsascala",
-    "Land": "Malta",
-    "Note": "3.5",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Lignano",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Ascona",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Coromandel",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ottawa",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Puerto de Santa Maria",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Arenal",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tamarindo",
-    "Land": "Costa Rica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Montepulciano",
-    "Land": "Italien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Rio de Janeiro",
-    "Land": "Brasilien",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Modena",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Vieux Boucou",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Playa de Aro",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Triest",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Gzira",
-    "Land": "Malta",
-    "Note": "3.3",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Twickenham",
-    "Land": "England",
-    "Note": "5",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cobham",
-    "Land": "England",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Taipeh",
-    "Land": "Taiwan",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Jurassic Coast",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Goa",
-    "Land": "Indien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 0,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ibiza",
-    "Land": "Spanien",
-    "Note": "2.5",
-    "Party": 5,
-    "Kultur": 2,
-    "Strand": 5,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Johannesburg",
-    "Land": "Suedafrika",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Maple Ridge",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Wellington",
-    "Land": "Neuseeland",
-    "Note": "6",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Croydon",
-    "Land": "England",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Henley",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ramsgate",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Reigate",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Windsor",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chino Hills",
-    "Land": "USA",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Liverpool",
-    "Land": "England",
-    "Note": "1",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Cardiff",
-    "Land": "England",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "London-Stafford",
-    "Land": "England",
-    "Note": "4",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Perugia",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Maceio",
-    "Land": "Brasilien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "London-Camden",
-    "Land": "England",
-    "Note": "1.5",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Chestnut Hill",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Trinidad",
-    "Land": "Kuba",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Tours",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chiavari",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Padua",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Turin",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Wharf",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Santa Cruz",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Cheltenham",
-    "Land": "England",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Leeds",
-    "Land": "England",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Darwin",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Margate River",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Port Douglas",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Whitsundays",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Aberdeen",
-    "Land": "England",
-    "Note": "1.5",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Glasgow",
-    "Land": "England",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Neu-Delhi",
-    "Land": "Indien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Philadelphia",
-    "Land": "USA",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Portland",
-    "Land": "USA",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 1,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Belfast",
-    "Land": "England",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Queenstown",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Canmore",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Port Elizabeth",
-    "Land": "Suedafrika",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 3,
-    "Strand": 5,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Pamplona",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Montañita",
-    "Land": "Ecuador",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sucre",
-    "Land": "Bolivien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "San Carlos de Bariloche",
-    "Land": "Argentinien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Quebec",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 5,
-    "Strand": 3,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Bologna",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Posada",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Syrakus",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Leticia",
-    "Land": "Kolumbien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mongerbino",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Olbia",
-    "Land": "Italien",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cefalù",
-    "Land": "Italien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Wakefield",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Lausanne",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Las Vegas",
-    "Land": "USA",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Annecy",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Genua",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Brandeston",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Finborough",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Southwold",
-    "Land": "England",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Gloucestershire",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Worksop",
-    "Land": "England",
-    "Note": "2.5",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Woodbridge",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Asheville",
-    "Land": "USA",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Orlando",
-    "Land": "USA",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Malvern",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Felixstowe",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ascot",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sligo",
-    "Land": "Irland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Genf",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Benalmadena",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Grenoble",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Chichester",
-    "Land": "England",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Seaford",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sedbergh",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "New Haven",
-    "Land": "USA",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Tennessee",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Lock Heaven",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Arcachon",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "3",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "",
-    "Land": "",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Hamilton",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Folkestone",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Irvine",
-    "Land": "USA",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 0,
-    "Strand": 2,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Salisbury",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Berlin",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 5,
-    "Kultur": 5,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Hamburg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 4
-  },
-  {
-    "Ort": "München",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Frankfurt",
-    "Land": "Deutschland",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Bognor Regis",
-    "Land": "England",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sant Feliu",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Maurward",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tarquinia",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Powell River",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bremerhaven",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Stralsund",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Augsburg",
-    "Land": "Deutschland",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Stratford-upon-Avon",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Oberwesel",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Chamonix",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bogota",
-    "Land": "Kolumbien",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Cartagena",
-    "Land": "Kolumbien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Toulouse",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Qingdao",
-    "Land": "China",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "GuangZhou",
-    "Land": "China",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Alghero",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bamberg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Regensburg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Freiburg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Koeln",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 3,
-    "Strand": 0,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Heidelberg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Muenchen",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 4,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 4
-  },
-  {
-    "Ort": "Olinda",
-    "Land": "Brasilien",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Sao Paulo",
-    "Land": "Brasilien",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Reading",
-    "Land": "England",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "Margaret River",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bray",
-    "Land": "Irland",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Ardingly",
-    "Land": "England",
-    "Note": "6",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Salina Bay",
-    "Land": "Malta",
-    "Note": "3",
-    "Party": 1,
-    "Kultur": 0,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Zug",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Potsdam",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sunshine Coast",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mount Maunganui",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mount Maunganui",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Napier",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Nelson",
-    "Land": "Neuseeland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kelowna",
-    "Land": "Kanada",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Broadstairs",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Colchester",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Scarborough",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Newcastle upon Tyne",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Villefranche",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Morzine",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Poole",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 3,
-    "Strand": 3,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tarifa",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Samara",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Nosara",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bagno di Romagna",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bonn",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dresden",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "DÃ¼sseldorf",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 0,
-    "Metropole": 2
-  },
-  {
-    "Ort": "GÃ¶ttingen",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bremen",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Mannheim",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Muenster",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Schwaebisch Hall",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Zuerich",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 3
-  },
-  {
-    "Ort": "East Budleigh",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Cervia",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Buckingham",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Crowthorne",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sherborne",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "St. Albans",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bradfield",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Marlow",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Rugby",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Martinique",
-    "Land": "Frankreich",
-    "Note": "1",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 0
-  },
-  {
-    "Ort": "LÃ¼neburger_Heide",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Limburg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "AltmÃ¼hltal",
-    "Land": "Deutschland",
-    "Note": "4",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Hyeres",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Tarragona",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Derbyshire",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dover",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "La Réunion",
-    "Land": "Frankreich",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 4,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Yverdon",
-    "Land": "Schweiz",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Corfe",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Neuburg",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Shrewsbury",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Bury St Edmunds",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Totnes",
-    "Land": "England",
-    "Note": "2",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Worcester",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Northampton",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Rotorua",
-    "Land": "Australien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Waikiki",
-    "Land": "USA",
-    "Note": "1",
-    "Party": 3,
-    "Kultur": 2,
-    "Strand": 5,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kilkenny",
-    "Land": "Irland",
-    "Note": "",
-    "Party": 2,
-    "Kultur": 2,
-    "Strand": 0,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Pangbourne",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Berkshire",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Westonbirt",
-    "Land": "England",
-    "Note": "5",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Waterford",
-    "Land": "Irland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 1,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Zell am See",
-    "Land": "Oesterreich",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Sarasota",
-    "Land": "USA",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 3,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Vina del mar",
-    "Land": "Chile",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 1,
-    "Strand": 2,
-    "Metropole": 1
-  },
-  {
-    "Ort": "Heredia",
-    "Land": "CostaRica",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 1,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Wandlitz",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Pirna",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Weisswasser",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dahme",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Willingen",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Villajoyosa",
-    "Land": "Spanien",
-    "Note": "",
-    "Party": 1,
-    "Kultur": 2,
-    "Strand": 5,
-    "Metropole": 3
-  },
-  {
-    "Ort": "San Gwann",
-    "Land": "Malta",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 2,
-    "Strand": 2,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Diez",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Hattingen",
-    "Land": "Deutschland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Fort Meyers",
-    "Land": "USA",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Seoul",
-    "Land": "Suedkorea",
-    "Note": "1",
-    "Party": 5,
-    "Kultur": 4,
-    "Strand": 3,
-    "Metropole": 5
-  },
-  {
-    "Ort": "Ilfracombe",
-    "Land": "England",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Long Beach",
-    "Land": "USA",
-    "Note": "2",
-    "Party": 4,
-    "Kultur": 3,
-    "Strand": 4,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Recife",
-    "Land": "Brasilien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Kopenhagen",
-    "Land": "Daenemark",
-    "Note": "",
-    "Party": 3,
-    "Kultur": 4,
-    "Strand": 1,
-    "Metropole": 3
-  },
-  {
-    "Ort": "Helsinki",
-    "Land": "Finnland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Athen",
-    "Land": "Griechenland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Amman",
-    "Land": "Jordanien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Riga",
-    "Land": "Lettland",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Antwerpen",
-    "Land": "Belgien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Oslo",
-    "Land": "Norwegen",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bocas del Toro",
-    "Land": "Panama",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Boquete",
-    "Land": "Panama",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Warschau",
-    "Land": "Polen",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Stockholm",
-    "Land": "Schweden",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Prag",
-    "Land": "Tschechien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Bangkok",
-    "Land": "Thailand",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Phuket",
-    "Land": "Thailand",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Istanbul",
-    "Land": "Tuerkei",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Budapest",
-    "Land": "Ungarn",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Dubai",
-    "Land": "VAE",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Livorno",
-    "Land": "Italien",
-    "Note": "",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
-  },
-  {
-    "Ort": "Swindon",
-    "Land": "England",
-    "Note": "1",
-    "Party": 0,
-    "Kultur": 0,
-    "Strand": 0,
-    "Metropole": 0
+    "grade": "2",
+    "city_name": "Adelaide",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 5,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Airlie Beach",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Aix-en-Provence",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.6",
+    "city_name": "Alicante",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Almunecar",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1",
+    "city_name": "Amboise",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2.9",
+    "city_name": "Antibes",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1",
+    "city_name": "Antigua",
+    "country_code": "GT",
+    "country_name": "Guatemala ",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "6",
+    "city_name": "Boca Raton",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Arequipa",
+    "country_code": "PE",
+    "country_name": "Peru",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Ashland",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Atlanta",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1",
+    "city_name": "Auckland",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 5,
+    "rating_party": 5,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Avignon",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 4,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Barbados",
+    "country_code": "BB",
+    "country_name": "Barbados",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Barcelona",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Bariloche",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bariloche",
+    "country_code": "AR",
+    "country_name": "Argentinien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "4.5",
+    "city_name": "Beijing",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Biarritz",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Bordeaux",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.3",
+    "city_name": "Boston",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "2",
+    "city_name": "Bournemouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 5,
+    "rating_party": 4,
+    "rating_culture": 1,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Newcastle",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 5,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1",
+    "city_name": "Brest",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.2",
+    "city_name": "Brighton",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1.3",
+    "city_name": "Brisbane",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 5,
+    "rating_party": 5,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1",
+    "city_name": "Buenos Aires",
+    "country_code": "AR",
+    "country_name": "Argentinien",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1",
+    "city_name": "Cadiz",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Cairns",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1",
+    "city_name": "Calgary",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Camber Sands",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Cambridge",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Cancun",
+    "country_code": "MX",
+    "country_name": "Mexiko",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cannes",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Canterbury",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Capo Vaticano",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Chamb�ry",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Charlotte",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.4",
+    "city_name": "Chicago",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Christchurch",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Christchurch",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Chukyo",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cleverland",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cordoba",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Cordoba",
+    "country_code": "AR",
+    "country_name": "Argentinien ",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "2",
+    "city_name": "Cork",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Coronado",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Taunton",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cote dAzur",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cuenca",
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cuernavaca",
+    "country_code": "MX",
+    "country_name": "Mexiko ",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Cusco",
+    "country_code": "PE",
+    "country_name": "Peru",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 4,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Dahab",
+    "country_code": "EG",
+    "country_name": "�gypten",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Denia",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Denver",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Devon",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.4",
+    "city_name": "Dublin",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Durban",
+    "country_code": "ZA",
+    "country_name": "Suedafrika",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Eastbourne",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Edinburgh",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "El Puerto",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "El Puerto de Santa Maria",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Elba",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Exmouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Faro",
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Fiesole",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Florenz",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Flores",
+    "country_code": "GT",
+    "country_name": "Guatemala",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.3",
+    "city_name": "Florida",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Fort Lauderdale",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Fremantle",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Fukuoka",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Galway",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Ghajnsielem",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Gold Coast",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 0,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Gozo",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Gran Canaria",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Granada",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Great Yarmouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Guadeloupe",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Guanajuato",
+    "country_code": "MX",
+    "country_name": "Mexiko",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Hastings",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "3",
+    "city_name": "Havanna",
+    "country_code": "CU",
+    "country_name": "Kuba",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Tavistock",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Hawaii",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Hobart",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Hong Kong",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.7",
+    "city_name": "Honolulu",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Houston",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Indianapolis",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.8",
+    "city_name": "Isle of Wight",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Jaco Beach",
+    "country_code": "CR",
+    "country_name": "CostaRica ",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Jeffreys Bay",
+    "country_code": "ZA",
+    "country_name": "Suedafrika",
+    "rating_beach": 5,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1",
+    "city_name": "Jersey",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kairo",
+    "country_code": "EG",
+    "country_name": "�gypten",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kalabrien",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kaliningrad",
+    "country_code": "RU",
+    "country_name": "Russland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kanazawa",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.4",
+    "city_name": "Kapstadt",
+    "country_code": "ZA",
+    "country_name": "Suedafrika",
+    "rating_beach": 4,
+    "rating_party": 5,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Keele",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Krakau",
+    "country_code": "PL",
+    "country_name": "Polen",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.3",
+    "city_name": "La Rochelle",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Limerick",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lissabon",
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "2.3",
+    "city_name": "London",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1.3",
+    "city_name": "London-Central",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 5,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "1.5",
+    "city_name": "London-Central-Hampstead",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Hohensolms",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "London-Covent Garden",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "London-Greenwich",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "London-Hampstead",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1.8",
+    "city_name": "Los Angeles",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 3,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Lucca",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lyon",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Madrid",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Mailand",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "2.1",
+    "city_name": "Malaga",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Mallorca",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 4,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Manuel Antonio",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.3",
+    "city_name": "Marbella",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 5,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Margate",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Melbourne",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Mendoza",
+    "country_code": "AR",
+    "country_name": "Argentinien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Mendoza",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Merida",
+    "country_code": "MX",
+    "country_name": "Mexiko",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mexico City",
+    "country_code": "MX",
+    "country_name": "Mexiko",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "1",
+    "city_name": "Miami",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 5,
+    "rating_party": 5,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "1.4",
+    "city_name": "Miami Beach",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Montpellier",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 1,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Montreal",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "5",
+    "city_name": "Montreux",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Moskau",
+    "country_code": "RU",
+    "country_name": "Russland",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Msida",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Nagano",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Nashville",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Neapel",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1",
+    "city_name": "Nerja",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Neuengland",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.7",
+    "city_name": "New York",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Nizza",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Noosa",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Oaxaca",
+    "country_code": "MX",
+    "country_name": "Mexiko ",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Oklahoma",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Orbetello",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Orvieto",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Oxford",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Palma de Mallorca",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 3,
+    "rating_party": 5,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Paris",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Peking",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Perth",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Phuket",
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Pisa",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2.8",
+    "city_name": "Playa del Carmen",
+    "country_code": "MX",
+    "country_name": "Mexiko ",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Plymouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Portico di Romagna",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Porto",
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Puerto Vallarta",
+    "country_code": "MX",
+    "country_name": "Mexiko ",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Puerto de la Cruz",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1",
+    "city_name": "Quito",
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Rabat",
+    "country_code": "MA",
+    "country_name": "Marokko",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Ravenna",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2.7",
+    "city_name": "Rom",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Royan",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Salamanca",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Salerno",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Salvador da Bahia",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "San Bartolomeo",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "San Diego",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1.4",
+    "city_name": "San Francisco",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "San Jose",
+    "country_code": "CR",
+    "country_name": "CostaRica ",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "San Juan",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "San Juan",
+    "country_code": "PR",
+    "country_name": "Puerto Rico ",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "San Remo",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "San Sebastian",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "4",
+    "city_name": "St. Raphael",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Santa Barbara",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "2",
+    "city_name": "Santa Monica",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Santiago de Chile",
+    "country_code": "CL",
+    "country_name": "Chile ",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Santiago de Compostela",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 5,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Santo Domingo",
+    "country_code": "DO",
+    "country_name": "Dominikanische Republik",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "3",
+    "city_name": "Seattle",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Severn Valley",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.3",
+    "city_name": "Sevilla",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Shanghai",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1",
+    "city_name": "Siena",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 4,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Singapur",
+    "country_code": "SG",
+    "country_name": "Singapur",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Sizilien",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Sliema",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 2,
+    "rating_party": 4,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Conil",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Mellieha",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 2,
+    "rating_party": 4,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Montevideo",
+    "country_code": "UY",
+    "country_name": "Uruguay",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Lakefield",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Squamish",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mont Tremblant",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "St. Catharines",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Heyeres",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Teignmouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.7",
+    "city_name": "Christchurch",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Saint-Malo",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "3.3",
+    "city_name": "Bexhill-on-sea",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Bagheria",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Solerno",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sorrento",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Sosua",
+    "country_code": "DO",
+    "country_name": "Dominikanische Republik",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "South Sea",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "St Antonys",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "St. Georges Bay",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.8",
+    "city_name": "St. Julians",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 1,
+    "rating_party": 4,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "St. Malo",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.5",
+    "city_name": "St. Pauls Bay",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "St. Anne",
+    "country_code": "GP",
+    "country_name": "Guadeloupe",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Strassburg",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "6",
+    "city_name": "Swanage",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Swieqi",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.8",
+    "city_name": "Sydney",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 3,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1",
+    "city_name": "Sydney-Manly",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Taipei",
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Taormina",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Taupo",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Teneriffa",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Tobago",
+    "country_code": "TT",
+    "country_name": "Karibik",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.2",
+    "city_name": "Tokyo",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "rating_beach": 3,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "2",
+    "city_name": "Torbay",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.8",
+    "city_name": "Toronto",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "2",
+    "city_name": "Torquay",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Tropea",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.6",
+    "city_name": "Valencia",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1.6",
+    "city_name": "Vancouver",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Vejer de la Frontera",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Venedig",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Verona",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "3",
+    "city_name": "Viareggio",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Vichy",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Victoria",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Warminster",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3.6",
+    "city_name": "Weymouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Whistler",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Worthing",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "5",
+    "city_name": "York",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Rouen",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.3",
+    "city_name": "Bristol",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "2",
+    "city_name": "Chester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1.1",
+    "city_name": "Manchester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Santiago de Cuba",
+    "country_code": "CU",
+    "country_name": "Kuba",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1",
+    "city_name": "St. Petersburg",
+    "country_code": "RU",
+    "country_name": "Russland",
+    "rating_beach": 1,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Windlesham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Byron Bay",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Kent",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Berkeley",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Tampa Bay",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Playa Tamarindo",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Kalifornien",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Playa Jac&oacute;",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Xian",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Leysin",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Washington",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Montgomery",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Bath",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1.4",
+    "city_name": "Winchester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Birmingham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Spa",
+    "country_code": "BE",
+    "country_name": "Belgien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Valparaiso",
+    "country_code": "CL",
+    "country_name": "Chile",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Puc�",
+    "country_code": "CL",
+    "country_name": "Chile",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Asunci�",
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lima",
+    "country_code": "PE",
+    "country_name": "Peru",
+    "rating_beach": 2,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "2",
+    "city_name": "Exeter",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Young Island",
+    "country_code": "HR",
+    "country_name": "Kroatien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Haywards-Heath",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "La Crau",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Verneuil",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.2",
+    "city_name": "Bugibba",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Sardinien",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 4,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Portsmouth",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "2.2",
+    "city_name": "Valletta",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 1,
+    "rating_party": 2,
+    "rating_culture": 4,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "3.5",
+    "city_name": "Marsascala",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 1,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Lignano",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Ascona",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Coromandel",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Ottawa",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Puerto de Santa Maria",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Arenal",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Tamarindo",
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Montepulciano",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Rio de Janeiro",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Modena",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Vieux Boucou",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Playa de Aro",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Triest",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "3.3",
+    "city_name": "Gzira",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "5",
+    "city_name": "Twickenham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Cobham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Taipeh",
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Jurassic Coast",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Goa",
+    "country_code": "IN",
+    "country_name": "Indien",
+    "rating_beach": 4,
+    "rating_party": 3,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Ibiza",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 5,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Johannesburg",
+    "country_code": "ZA",
+    "country_name": "Suedafrika",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Maple Ridge",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "6",
+    "city_name": "Wellington",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 3,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Croydon",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Henley",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Ramsgate",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Reigate",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Windsor",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Chino Hills",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Liverpool",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Cardiff",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "4",
+    "city_name": "London-Stafford",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Perugia",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Maceio",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.5",
+    "city_name": "London-Camden",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Chestnut Hill",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Trinidad",
+    "country_code": "CU",
+    "country_name": "Kuba",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Tours",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Chiavari",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Padua",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Turin",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Wharf",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Santa Cruz",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Cheltenham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Leeds",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Darwin",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Margate River",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Port Douglas",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Whitsundays",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 5,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1.5",
+    "city_name": "Aberdeen",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Glasgow",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Neu-Delhi",
+    "country_code": "IN",
+    "country_name": "Indien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 3,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Philadelphia",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Portland",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Belfast",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Queenstown",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Canmore",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Port Elizabeth",
+    "country_code": "ZA",
+    "country_name": "Suedafrika",
+    "rating_beach": 5,
+    "rating_party": 4,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Pamplona",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Monta�ita",
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sucre",
+    "country_code": "BO",
+    "country_name": "Bolivien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "San Carlos de Bariloche",
+    "country_code": "AR",
+    "country_name": "Argentinien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Quebec",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 3,
+    "rating_party": 4,
+    "rating_culture": 5,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Bologna",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Posada",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Syrakus",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Leticia",
+    "country_code": "CO",
+    "country_name": "Kolumbien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mongerbino",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Olbia",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Cefal�",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Wakefield",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lausanne",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Las Vegas",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Annecy",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Genua",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Brandeston",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Finborough",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Southwold",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Gloucestershire",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2.5",
+    "city_name": "Worksop",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Woodbridge",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Asheville",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Orlando",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 0,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "1",
+    "city_name": "Malvern",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Felixstowe",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Ascot",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sligo",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Genf",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Benalmadena",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Grenoble",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Chichester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Seaford",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sedbergh",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "New Haven",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Tennessee",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lock Heaven",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Arcachon",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Hamilton",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Folkestone",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Irvine",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 0,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Salisbury",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Berlin",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 5,
+    "rating_culture": 5,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Hamburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 1,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "M�nchen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Frankfurt",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Bognor Regis",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sant Feliu",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Maurward",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Tarquinia",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Powell River",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bremerhaven",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Stralsund",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "2",
+    "city_name": "Augsburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Stratford-upon-Avon",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Oberwesel",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Chamonix",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bogota",
+    "country_code": "CO",
+    "country_name": "Kolumbien",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Cartagena",
+    "country_code": "CO",
+    "country_name": "Kolumbien",
+    "rating_beach": 3,
+    "rating_party": 3,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Toulouse",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 1,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Qingdao",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "GuangZhou",
+    "country_code": "CN",
+    "country_name": "China",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Alghero",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bamberg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 3,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Regensburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Freiburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Koeln",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 4,
+    "rating_culture": 3,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "",
+    "city_name": "Heidelberg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Muenchen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 1,
+    "rating_party": 4,
+    "rating_culture": 4,
+    "rating_metropolis": 4
+  },
+  {
+    "grade": "1",
+    "city_name": "Olinda",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Sao Paulo",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Reading",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Margaret River",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bray",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 1,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "6",
+    "city_name": "Ardingly",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "3",
+    "city_name": "Salina Bay",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 3,
+    "rating_party": 1,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Zug",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Potsdam",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sunshine Coast",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 4,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mount Maunganui",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mount Maunganui",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Napier",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 2,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Nelson",
+    "country_code": "NZ",
+    "country_name": "Neuseeland",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kelowna",
+    "country_code": "CA",
+    "country_name": "Kanada",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Broadstairs",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Colchester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Scarborough",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Newcastle upon Tyne",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Villefranche",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Morzine",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Poole",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 3,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Tarifa",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Samara",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Nosara",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bagno di Romagna",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bonn",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Dresden",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Düsseldorf",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 2
+  },
+  {
+    "grade": "",
+    "city_name": "Göttingen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bremen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Mannheim",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Muenster",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Schwaebisch Hall",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Zuerich",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "East Budleigh",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Cervia",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Buckingham",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Crowthorne",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sherborne",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "St. Albans",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bradfield",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Marlow",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Rugby",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "1",
+    "city_name": "Martinique",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Lüneburger_Heide",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Limburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "4",
+    "city_name": "Altmühltal",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Hyeres",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Tarragona",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Derbyshire",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Dover",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "La R�union",
+    "country_code": "FR",
+    "country_name": "Frankreich",
+    "rating_beach": 4,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Yverdon",
+    "country_code": "CH",
+    "country_name": "Schweiz",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Corfe",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Neuburg",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Shrewsbury",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Bury St Edmunds",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Totnes",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Worcester",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Northampton",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Rotorua",
+    "country_code": "AU",
+    "country_name": "Australien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Waikiki",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 5,
+    "rating_party": 3,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kilkenny",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 0,
+    "rating_party": 2,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Pangbourne",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Berkshire",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "5",
+    "city_name": "Westonbirt",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Waterford",
+    "country_code": "IE",
+    "country_name": "Irland",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 1,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Zell am See",
+    "country_code": "AT",
+    "country_name": "Oesterreich",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Sarasota",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 3,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Vina del mar",
+    "country_code": "CL",
+    "country_name": "Chile",
+    "rating_beach": 2,
+    "rating_party": 1,
+    "rating_culture": 1,
+    "rating_metropolis": 1
+  },
+  {
+    "grade": "",
+    "city_name": "Heredia",
+    "country_code": "CR",
+    "country_name": "CostaRica",
+    "rating_beach": 1,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Wandlitz",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Pirna",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Weisswasser",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Dahme",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Willingen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Villajoyosa",
+    "country_code": "ES",
+    "country_name": "Spanien",
+    "rating_beach": 5,
+    "rating_party": 1,
+    "rating_culture": 2,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "1",
+    "city_name": "San Gwann",
+    "country_code": "MT",
+    "country_name": "Malta",
+    "rating_beach": 2,
+    "rating_party": 0,
+    "rating_culture": 2,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Diez",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Hattingen",
+    "country_code": "DE",
+    "country_name": "Deutschland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Fort Meyers",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Seoul",
+    "country_code": "KR",
+    "country_name": "Suedkorea",
+    "rating_beach": 3,
+    "rating_party": 5,
+    "rating_culture": 4,
+    "rating_metropolis": 5
+  },
+  {
+    "grade": "",
+    "city_name": "Ilfracombe",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "2",
+    "city_name": "Long Beach",
+    "country_code": "US",
+    "country_name": "USA",
+    "rating_beach": 4,
+    "rating_party": 4,
+    "rating_culture": 3,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Recife",
+    "country_code": "BR",
+    "country_name": "Brasilien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Kopenhagen",
+    "country_code": "DK",
+    "country_name": "Daenemark",
+    "rating_beach": 1,
+    "rating_party": 3,
+    "rating_culture": 4,
+    "rating_metropolis": 3
+  },
+  {
+    "grade": "",
+    "city_name": "Helsinki",
+    "country_code": "FI",
+    "country_name": "Finnland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Athen",
+    "country_code": "GR",
+    "country_name": "Griechenland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Amman",
+    "country_code": "JO",
+    "country_name": "Jordanien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Riga",
+    "country_code": "LV",
+    "country_name": "Lettland",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Antwerpen",
+    "country_code": "BE",
+    "country_name": "Belgien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Oslo",
+    "country_code": "NO",
+    "country_name": "Norwegen",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bocas del Toro",
+    "country_code": "PA",
+    "country_name": "Panama",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Boquete",
+    "country_code": "PA",
+    "country_name": "Panama",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Warschau",
+    "country_code": "PL",
+    "country_name": "Polen",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Stockholm",
+    "country_code": "SE",
+    "country_name": "Schweden",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Prag",
+    "country_code": "CZ",
+    "country_name": "Tschechien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Bangkok",
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Phuket",
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Istanbul",
+    "country_code": "TR",
+    "country_name": "Tuerkei",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Budapest",
+    "country_code": "HU",
+    "country_name": "Ungarn",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Dubai",
+    "country_code": "AE",
+    "country_name": "VAE",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "",
+    "city_name": "Livorno",
+    "country_code": "IT",
+    "country_name": "Italien",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
+  },
+  {
+    "grade": "1",
+    "city_name": "Swindon",
+    "country_code": "GB",
+    "country_name": "England",
+    "rating_beach": 0,
+    "rating_party": 0,
+    "rating_culture": 0,
+    "rating_metropolis": 0
   }
 ]
