@@ -1,4 +1,4 @@
-# Rating API
+# Gatsby Source Ratings
 
 __TODO__ this is currently a stub and just exposes static, pregenerated json files as gatsby GraphQL nodes.
 
