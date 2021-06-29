@@ -10,13 +10,14 @@
  *
  * See: https://www.gatsbyjs.com/docs/creating-a-local-plugin/#developing-a-local-plugin-that-is-outside-your-project
  */
-exports.onPreInit = () => console.log("Loaded gatsby-source-organisations")
+exports.onPreInit = ({ reporter }) => reporter.info("Loaded gatsby-source-organisations")
 
 const RATING_SUMMARY_ORGANISATION_NODE_TYPE = 'RatingSummaryOrganisation'
 const RATING_SUMMARY_CITY_NODE_TYPE = 'RatingSummaryCity'
 
 exports.sourceNodes = async({
   actions,
+  reporter,
   createContentDigest,
   createNodeId,
   getNodesByType,
@@ -27,7 +28,7 @@ exports.sourceNodes = async({
   let ratingSummariesCities = require('./rating_summaries/cities.json')
 
   ratingSummariesOrganisations.forEach((summary) => {
-    console.log(`create ${RATING_SUMMARY_ORGANISATION_NODE_TYPE}: ${summary.organisation_slug}`)
+    reporter.verbose(`create ${RATING_SUMMARY_ORGANISATION_NODE_TYPE}: ${summary.organisation_slug}`)
     createNode({
       ...summary,
       id: createNodeId(`${RATING_SUMMARY_ORGANISATION_NODE_TYPE}-${summary.organisation_slug}`),
@@ -40,9 +41,10 @@ exports.sourceNodes = async({
       }
     })
   })
+  reporter.info(`created ${ratingSummariesOrganisations.length} ${RATING_SUMMARY_ORGANISATION_NODE_TYPE}`)
 
   ratingSummariesCities.forEach((summary) => {
-    console.log(`create ${RATING_SUMMARY_CITY_NODE_TYPE}: ${summary.country_name} ${summary.city_name}`)
+    reporter.verbose(`create ${RATING_SUMMARY_CITY_NODE_TYPE}: ${summary.country_name} ${summary.city_name}`)
     createNode({
       ...summary,
       id: createNodeId(`${RATING_SUMMARY_CITY_NODE_TYPE}-${summary.country_name}-${summary.city_name}`),
@@ -55,4 +57,5 @@ exports.sourceNodes = async({
       }
     })
   })
+  reporter.info(`created ${ratingSummariesCities.length} ${RATING_SUMMARY_CITY_NODE_TYPE}`)
 }
